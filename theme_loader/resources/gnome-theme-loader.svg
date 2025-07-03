@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="32" fill="#24283B"/>
+  <g>
+    <circle cx="64" cy="64" r="44" fill="#4FD1C5"/>
+    <path d="M44 84c0-11 9-20 20-20s20 9 20 20" stroke="#24283B" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="64" cy="56" r="10" fill="#24283B"/>
+    <rect x="36" y="36" width="56" height="56" rx="16" fill="none" stroke="#A3BE8C" stroke-width="4"/>
+    <path d="M48 48h32v32H48z" fill="none" stroke="#EBCB8B" stroke-width="3"/>
+  </g>
+  <text x="64" y="120" text-anchor="middle" font-size="16" fill="#A3BE8C" font-family="sans-serif">GTK</text>
+</svg> 
