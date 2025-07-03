@@ -1,0 +1,19 @@
+# Dependencias para GNOME Theme Loader
+# Interfaz gráfica
+PyGObject>=3.42.0
+
+# Manejo de archivos y compresión
+requests>=2.31.0
+Pillow>=10.0.0
+
+# Utilidades del sistema
+pathlib2>=2.3.7
+
+# Para el protocolo OCS
+urllib3>=2.0.0
+
+# Para manejo de archivos temporales
+tempfile
+
+# Para threading
+threading 
